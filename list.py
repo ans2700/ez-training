@@ -101,7 +101,7 @@ second=arr[:k-1]
 #print(first+second)
 first.extend(second)
 print(first)
-print(second)0569
+print(second)
 
 #another approach
 arr=[1,2,3,4,5]
